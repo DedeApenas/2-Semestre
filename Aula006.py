@@ -1,7 +1,7 @@
 #Sintaxe do dicionário
 # Chave: Valor 
 meuDicionario = {
-    "nome": "francine", 
+    "nome": "francine",
     "idade": 26
 }
 print("Mostrando o dicionário: ", meuDicionario)
