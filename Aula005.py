@@ -1,4 +1,4 @@
-#sintaxe de criação da tupla
+#sintaxe de criação da tupla 
 minhaTupla = ("Açai","Leite Ninho","Nutella", "tupla" )
 print("Mostrar a tupla: ", minhaTupla)
 print("Mostrar um item em posição específica: ", minhaTupla[2])
