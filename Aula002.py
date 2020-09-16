@@ -1,4 +1,4 @@
-print("Hello") 
+print("Hello")  
 nome = "Dedé"
 print(nome)
 #Declaração de variaveis
