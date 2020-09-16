@@ -1,4 +1,4 @@
-minhaLista = ["Eduardo", "Julia", "Ana", 10]
+minhaLista = ["Eduardo", "Julia", "Ana", 10] 
 print(minhaLista)
 
 #Acesso ao item por posição 
